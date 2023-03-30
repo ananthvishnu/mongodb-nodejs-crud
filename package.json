@@ -1,0 +1,18 @@
+{
+  "dependencies": {
+    "body-parser": "^1.20.2",
+    "express": "^4.18.2",
+    "express-handlebars": "^6.0.7",
+    "mongodb": "^4.14.0"
+  },
+  "name": "mongodb-nodejs-crud",
+  "version": "1.0.0",
+  "description": "mongodb and nodejs crud operation with mongodb module",
+  "main": "app.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "vishnu",
+  "license": "ISC"
+}
